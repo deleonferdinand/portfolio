@@ -1,9 +1,10 @@
 body {
-	background-image: url(../images/bg11.jpg);
+	background-image: url(../images/bg20.jpg);
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	background-color: white;
 	color: #fff; /*white*/
 	background-repeat: no repeat;
 	height: 100vh;
